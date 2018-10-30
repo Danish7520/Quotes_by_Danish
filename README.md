@@ -6,9 +6,7 @@ This project was created in Reactjs.
 [Create React App](https://github.com/facebook/create-react-app)
 
 ## Technologies Used
-[Html](https://www.w3schools.com/html/html_intro.asp)
-[CSS](https://www.w3schools.com/css/)
-[Javascript](https://www.javascript.com/)
+
 [Reactjs](https://reactjs.org/)
 
 
